@@ -3,11 +3,10 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: rgb(21, 88, 185); /* Set background color */
-  color: #fff; /* Optional: Change text color for contrast */
+  
 }
   header {
-    background: #333;
+    background: #0066cc;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -44,7 +43,7 @@ body {
   footer {
     text-align: center;
     padding: 1rem 0;
-    background: #333;
+    background: #0066cc;
     color: #fff;
   }
   
