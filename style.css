@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-  }
-  
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(21, 88, 185); /* Set background color */
+  color: #fff; /* Optional: Change text color for contrast */
+}
   header {
     background: #333;
     color: #fff;
